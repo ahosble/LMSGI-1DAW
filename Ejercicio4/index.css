@@ -1,0 +1,20 @@
+.texto-subrayado {
+    text-decoration:underline;
+}
+.trabajador {
+    background-color: grey;
+}
+/* Los h2 que esten dentro de trabajador */
+.trabajador > h2 {
+    text-align: center;
+}
+
+.datospersonales {
+    border-style: solid;
+    border-width: 2px;
+}
+
+.estudios {
+    border-style: double;
+    border-width: 5px;
+}
